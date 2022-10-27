@@ -1,5 +1,5 @@
 {
-    "name": "@clarkwinkelmann/formulaire-money-to-all",
+    "name": "@clarkwinkelmann/money-to-all",
     "private": true,
     "dependencies": {
         "flarum-tsconfig": "^1.0",
