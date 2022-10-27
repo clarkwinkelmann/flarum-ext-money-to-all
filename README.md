@@ -25,5 +25,6 @@ Support is offered on a "best effort" basis through the Flarum community thread.
 
 ## Links
 
+- [Discuss](https://discuss.flarum.org/d/31843)
 - [GitHub](https://github.com/clarkwinkelmann/flarum-ext-money-to-all)
 - [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-money-to-all)
